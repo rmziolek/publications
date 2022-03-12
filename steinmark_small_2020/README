@@ -1,3 +1,5 @@
 #Time-Resolved Fluorescence Anisotropy of a Molecular Rotor Resolves Microscopic Viscosity Parameters in Complex Environments
+Reference: Time-resolved fluorescence anisotropy of a molecular rotor resolves microscopic viscosity parameters in complex environments, I. Emilie Steinmark, Pei-Hua Chung, Robert M. Ziolek, Bethan Cornell, Paul Smith, James A. Levitt, Carolyn Tregidgo, Carla Molteni, Gokhan Yahioglu, Christian D. Lorenz & Klaus Suhling, Small (2020) 16 (22), 1907139.
+https://onlinelibrary.wiley.com/doi/full/10.1002/smll.201907139
 
 bodp-angles.ipynb - Script to determine the two angles used to define the orientation of bodipy dye molecule within lipid environments reported in paper. (Written by Rob Ziolek)
